@@ -25,7 +25,7 @@
 
 **[2024 → Now] — Founding Engineer @ [LangWatch.ai](https://langwatch.ai)**
 > LLM Ops platform empowering AI engineers with optimization and observability.
-> Open source · ~2,600 ⭐ on GitHub
+> Open source · ~3000+ ⭐ on GitHub
 > `Next.js` `TypeScript` `Python` `tRPC` `ElasticSearch`
 
 **[2022 → Now] — Owner & Full Stack Eng. @ Type-Safe Studio**
