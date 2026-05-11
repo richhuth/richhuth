@@ -2,7 +2,7 @@
 
 # `richhuth.com`
 
-### Software Engineer · Entrepreneur · AI Builder
+### Product Engineer · Entrepreneur · AI Builder
 **Amsterdam, NL // Global**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-richhuth-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/richhuth/)
