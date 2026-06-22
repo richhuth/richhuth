@@ -14,21 +14,23 @@
 
 ```bash
 ➜ whoami
-> Founding Engineer @ LangWatch.ai
-> Focus: LLM Ops · Optimization · Observability
-> Status: Building next-gen AI tools
+> Product Engineer
 ```
 
 ---
 
 ## The Build Log
 
-**[2024 → Now] — Founding Engineer @ [LangWatch.ai](https://langwatch.ai)**
+**[May 2026 → Present] — Founder & Product Engineer @ Type-Safe Studio**
+> type-safe : Studio is an indie product studio. We build our own products. Designed, built, and shipped end to end.
+> First product: Folo Docs (folo.fyi) — a calm, local-first home for the paperwork of your life, on Mac. Shipped June 2026.
+
+**[2024 → April 2026] — Founding Engineer @ [LangWatch.ai](https://langwatch.ai)**
 > LLM Ops platform empowering AI engineers with optimization and observability.
 > Open source · ~3000+ ⭐ on GitHub
 > `Next.js` `TypeScript` `Python` `tRPC` `ElasticSearch`
 
-**[2022 → Now] — Owner & Full Stack Eng. @ Type-Safe Studio**
+**[2022 → Now] — Product Eng / Owner. @ Type-Safe Studio**
 > Freelance studio delivering high-quality software across Real Estate, Leisure & more.
 > Clients: StudioWise, Promove, DataChest
 
